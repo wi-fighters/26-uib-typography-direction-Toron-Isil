@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+  margin-top: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+p {
+  margin-left: 2%;
+  margin-right: 2%;
+  text-align: justify;
+}
+
+
+.arabic {
+ text-align: right;
+}
